@@ -11,7 +11,7 @@ A simple retro-style **Brick Breaker** game built in C++ for the Windows console
 * Rajveersinh Gohil - 202401057
 
  ## Files
- game code :- [tetris.cpp](./tetris.cpp)
+ game code :- [modifiedgame.cpp](./modifiedgame.cpp)
 
 
 ## 📌 Features
