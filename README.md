@@ -4,6 +4,16 @@ A simple retro-style **Brick Breaker** game built in C++ for the Windows console
 
 ---
 
+## Team Members
+
+* Nirmal Nakum - 202401022
+* Ayush Donga - 202401052
+* Rajveersinh Gohil - 202401057
+
+ ## Files
+ game code :- [tetris.cpp](./tetris.cpp)
+
+
 ## 📌 Features
 
 - Colored bricks in rows
