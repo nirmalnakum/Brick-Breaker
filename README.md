@@ -15,7 +15,11 @@ A simple retro-style **Brick Breaker** game built in C++ for the Windows console
 
  ## Game Photoes And Videos
 
- 
+ ![Screenshot 2025-04-16 214313](https://github.com/user-attachments/assets/77d40f21-3813-4cda-b859-239efa21e07b)
+
+![Screenshot 2025-04-16 214340](https://github.com/user-attachments/assets/cf30bdbd-5593-4f9d-9412-14cb33059564)
+
+![Screenshot 2025-04-16 214430](https://github.com/user-attachments/assets/23b98f08-47fd-4b89-bb53-c76fbd589222)
 
 
 ## 📌 Features
